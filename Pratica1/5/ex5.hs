@@ -1,0 +1,1 @@
+dist xa ya xb yb = sqrt (((xb - xa)^2) + ((yb - ya)^2))
